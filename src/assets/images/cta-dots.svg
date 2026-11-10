@@ -1,0 +1,23 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="1576" height="931" viewBox="0 0 1576 931" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="Mask group" opacity="0.36">
+<mask id="mask0_0_37" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="465" width="1576" height="466">
+<path id="Ellipse 45" d="M1576 465.5C1576 526.63 1555.62 587.162 1516.02 643.639C1476.42 700.116 1418.37 751.433 1345.2 794.658C1272.03 837.884 1185.16 872.172 1089.55 895.566C993.95 918.959 891.482 931 788 931C684.518 931 582.05 918.959 486.445 895.566C390.841 872.172 303.972 837.884 230.8 794.658C157.627 751.432 99.5836 700.116 59.9829 643.639C20.3822 587.162 -9.04665e-06 526.63 0 465.5L788 465.5H1576Z" fill="url(#paint0_linear_0_37)"/>
+</mask>
+<g mask="url(#mask0_0_37)">
+<ellipse id="Ellipse 46" cx="788" cy="465.5" rx="788" ry="465.5" fill="url(#pattern0_0_37)"/>
+</g>
+</g>
+<defs>
+<linearGradient id="paint0_linear_0_37" x1="788" y1="484" x2="788" y2="729" gradientUnits="userSpaceOnUse">
+<stop stop-color="#D9D9D9" stop-opacity="0"/>
+<stop offset="1" stop-color="#737373"/>
+</linearGradient>
+<pattern id="pattern0_0_37" patternUnits="userSpaceOnUse" patternTransform="matrix(11.5304 0 0 23.0608 0 0)" preserveAspectRatio="none" viewBox="0 0 39.76 79.52" width="1" height="1">
+<use xlink:href="#pattern0_0_37_inner" transform="translate(-39.76 0)"/>
+<g id="pattern0_0_37_inner">
+<circle id="Ellipse 47" cx="7" cy="7" r="7" fill="white"/>
+</g>
+<use xlink:href="#pattern0_0_37_inner" transform="translate(-19.88 39.76)"/>
+<use xlink:href="#pattern0_0_37_inner" transform="translate(19.88 39.76)"/>
+</pattern></defs>
+</svg>
